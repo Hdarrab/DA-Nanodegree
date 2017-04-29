@@ -1,6 +1,6 @@
 # DA-Nanodegree
-Udacity's Data Analyst Nanodegree project files and notes.
-This repository contains project files and lecture notes for Udacity's Data Analyst Nanodegree program which I started working on on 26 Feb, 2017.
+### Udacity's Data Analyst Nanodegree project files and notes.
+This repository contains project files and lecture notes for Udacity's Data Analyst Nanodegree program which I started working on 26 Feb, 2017.
 ## Program Outline: 
 ### 1- Statistics 
 ### 2- Investigating a Dataset
